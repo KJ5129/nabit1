@@ -1,3 +1,4 @@
+import HomePage from '../components/HomePage';
 export default function Home() {
   return (
 import { useState, useEffect, useRef } from "react";
